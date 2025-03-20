@@ -1,4 +1,4 @@
-# PIM - Sistema de Gerenciamento Hortifrúti
+# PIM - Projeto Integrado Multidisciplinar
 
 Este é um sistema de gerenciamento de um hortifrúti desenvolvido em C++. O sistema permite ao usuário realizar várias operações como compras de frutas e legumes, visualizar o estoque, adicionar e excluir itens, além de realizar o login de funcionários.
 
